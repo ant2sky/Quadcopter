@@ -12,9 +12,13 @@ Initial Day : 2012/05/18
 ---------------------------
 2013-03-21
 	- Create three folders for this project.
+	
 		- Helicopter : for helicopter side.
+		
 		- Protocol : for communication protocol definition
+		
 		- RemoteController : for controller side
+		
 	- Remove Helicopter.ino
 
 2012-09-21
@@ -31,6 +35,7 @@ Initial Day : 2012/05/18
 	
 2013-04-23
 	- [CmProtocol] CM:get_command_info, get_payload_int. RC:reveiceCommandData
+	
 	- [CmProtocol] CM:set_payload_int, speed, turn, direction(left, right, front, back)
 	
 2013-05-21
@@ -50,4 +55,5 @@ Initial Day : 2012/05/18
 	
 2013-09-30
 	- [Remote controller] Extend LED number from 8 to 16 and add middle range for joystick
+	
 	- [Remote controller] Enable the third shift register and fixed led don't work when the number is over 16
