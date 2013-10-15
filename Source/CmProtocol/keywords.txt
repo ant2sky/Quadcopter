@@ -1,0 +1,63 @@
+#######################################
+# Syntax Coloring Map For Cmprotocol
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CmProtocol	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+get_command_info		KEYWORD2
+send_system_reset	KEYWORD2
+handle_system_reset	KEYWORD2
+send_synchronous_time	KEYWORD2
+handle_synchronous_time	KEYWORD2
+send_synchronous_data	KEYWORD2
+handle_synchronous_date	KEYWORD2
+send_automatic_checking	KEYWORD2
+handle_automatic_checking	KEYWORD2
+send_hardware_checking	KEYWORD2
+handle_hardware_checking	KEYWORD2
+send_function_checking	KEYWORD2
+handle_function_checking	KEYWORD2
+int send_read_calibration	KEYWORD2
+int handle_read_calibration	KEYWORD2
+send_write_calibration	KEYWORD2
+handle_write_calibration	KEYWORD2
+send_hardware_calibration	KEYWORD2
+handle_hardware_calibration	KEYWORD2
+send_function_calibration	KEYWORD2
+handle_function_calibration	KEYWORD2
+send_dir_front	KEYWORD2
+handle_dir_front	KEYWORD2
+send_dir_back	KEYWORD2
+handle_dir_back	KEYWORD2
+send_dir_left	KEYWORD2
+handle_dir_left	KEYWORD2
+send_dir_right	KEYWORD2
+handle_dir_right	KEYWORD2
+send_speed	KEYWORD2
+handle_speed	KEYWORD2
+send_turn_left	KEYWORD2
+handle_turn_left	KEYWORD2
+send_turn_right	KEYWORD2
+hadle_turn_right	KEYWORD2
+send_autocontrol	KEYWORD2
+handle_autocontrol	KEYWORD2
+send_set_mode	KEYWORD2
+handle_set_mode	KEYWORD2
+send_periodic_time	KEYWORD2
+handle_periodic_time	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
